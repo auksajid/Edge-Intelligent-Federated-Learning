@@ -1,5 +1,5 @@
 """
-aggregation.py — Server-side aggregation strategies (paper Section III-G/H, Eqs. 6-8).
+aggregation.py — Server-side aggregation strategies.
 
   * FedAvgAggregator     — plain unweighted / data-size-weighted averaging.
   * AdaptiveAggregator   — Eq. 6-7: weights by data size, staleness decay, and link quality.
