@@ -4,8 +4,7 @@ for Real-Time Anomaly Detection in Resource-Constrained UAV Networks.
 
 Reference PyTorch implementation of the full raw-window CNN-LSTM
 architecture and the communication-efficient, Byzantine-robust,
-differentially private federated protocol described in the accompanying
-paper (Section III). This is the production-architecture counterpart to
+differentially private federated protocol. This is the production-architecture counterpart to
 the lightweight NumPy surrogate used for the paper's reproducible ablation
 study; see README.md for how the two relate.
 """
